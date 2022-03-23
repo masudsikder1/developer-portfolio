@@ -19,7 +19,7 @@ img{
 border-radius: 50;
 
 }
-section{
+.flexible-container{
 
     display: flex;
 }
